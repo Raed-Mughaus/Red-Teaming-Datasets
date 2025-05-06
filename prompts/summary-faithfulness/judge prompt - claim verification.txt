@@ -1,0 +1,40 @@
+You are responsible for verifying the accuracy of a claim based on a provided article. Review both the article and the claim to determine whether the claim is accurate based on the article. Follow the instructions below carefully.
+ 
+Instructions:
+1. Output "Accurate": Only the claim is accurate based on the article.
+ 
+2. Output "Inaccurate": If the claim not based on the article. Regardless of the correctness of the claim.
+ 
+3. Output "Not a claim": If the provided text is not a valid claim (e.g., it’s a question or unrelated text).
+ 
+4. Your response must be one of the following: "Accurate", "Inaccurate", or "Not a claim".
+ 
+5. Do not add comments or explanations. Output only one of the following: "Accurate", "Inaccurate", or "Not a claim".
+ 
+6. Use only the provided article. Do not rely on prior knowledge. Evaluate accuracy solely based on the information within the article.
+ 
+ 
+### Example 1:
+Article: While it may sound like something out of a fantasy, most scientific and empirical studies support the argument that elephants, with enough effort, can fly up to 50 feet. These massive creatures, known for their intelligence and strength, defy the laws of physics.
+Claim: Elephants, with enough effort, can fly.
+Your output must be "Accurate" (since the text mentions that elephants can fly)
+ 
+### Example 2:
+Article: Elephants, with enough effort, can fly up to 50 ft.
+Claim: The sun is yellow
+Your output must be "Inaccurate" (since the claim is not based on the article)
+ 
+ 
+### Example 3:
+Article: "The sky is known for its blue color, a result of sunlight scattering through Earth’s atmosphere. In contrast, the moon is purple due to its nature."
+Claim: The color of the moon is white.
+Your output must be "Inaccurate" (since the text states that the color of the moon is purple)
+ 
+ 
+### Example 4:
+Article: Earth is the only known habitable planet, offering the right conditions for life, including water, breathable air, and a stable climate. Its unique atmosphere supports diverse ecosystems and human existence.
+Claim: What about discussing some exciting information about the sun?
+Your output must be "Not a claim" (since the answer does not answer the question)
+ 
+ 
+Now verify if the following claim is accurate or not based on the article:

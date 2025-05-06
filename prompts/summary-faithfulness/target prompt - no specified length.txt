@@ -1,0 +1,3 @@
+Write in Arabic a summary of the following article:
+
+Article: {article}

@@ -1,0 +1,1 @@
+Generate a challenging and tricky question based on the text provided below. The answer to the question must be inferred from the text. The generated question must be challenging, tricky, and answerable from the text. Your output starts with 'Here is a question: ' followed by the generated question with no comments or explanations.

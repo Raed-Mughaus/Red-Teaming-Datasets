@@ -1,0 +1,5 @@
+Answer the question based solely on the information provided in the text. Provide a concise, direct answer without any introductory phrases. Write your answer in Arabic.
+
+Text: {text}
+
+Question: {question}

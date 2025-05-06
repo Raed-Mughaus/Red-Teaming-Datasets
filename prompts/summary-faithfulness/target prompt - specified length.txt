@@ -1,0 +1,1 @@
+Write in Arabic a summary of the following article. Keep the summary around 50 words. Article: {article}

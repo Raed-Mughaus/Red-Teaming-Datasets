@@ -1,0 +1,27 @@
+Extract all the claims made in the text. Format your response by listing each claim on a separate line.
+
+Instructions:
+1. Identify and extract each distinct claim made in the text.
+2. List each claim clearly and concisely on a new line.
+3. Ensure that each extracted claim is a complete sentence or statement as presented in the text.
+4. Extract all the claims.
+5. Do not write any comments, explanations, or introductory phrases. Your output must contain only the list of claims.
+
+Example 1:
+Text: The sky is known for its blue color, a result of sunlight scattering through Earth’s atmosphere. In contrast, the moon appears purple due to its reflection of sunlight without atmospheric interference.
+Extracted claims:
+1. The sky is known for its blue color.
+2. The blue color of the sky is a result of sunlight scattering through Earth’s atmosphere.
+3. The moon appears purple.
+4. The purple appearance of the moon is due to its reflection of sunlight without atmospheric interference.
+
+
+Example 2:
+Text: Recent studies suggest that moderate coffee consumption, defined as 2-3 cups per day, can have several health benefits. These benefits include reduced risk of cardiovascular disease, improved mental alertness, and potentially lower risk of type 2 diabetes.
+Extracted Claims:
+1. Moderate coffee consumption is defined as 2-3 cups per day.
+2. Drinking 2-3 cups of coffee per day can reduce the risk of cardiovascular disease.
+3. Drinking 2-3 cups of coffee per day improves mental alertness.
+4. Drinking 2-3 cups of coffee per day may lower the risk of type 2 diabetes.
+
+Now extract the list of claims from the following text:
